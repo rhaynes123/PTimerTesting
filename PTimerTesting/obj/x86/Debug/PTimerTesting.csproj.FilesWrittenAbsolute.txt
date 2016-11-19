@@ -1,0 +1,5 @@
+/Users/richardhaynes/Projects/PTimerTesting/PTimerTesting/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/richardhaynes/Projects/PTimerTesting/PTimerTesting/bin/Debug/PTimerTesting.exe.mdb
+/Users/richardhaynes/Projects/PTimerTesting/PTimerTesting/bin/Debug/PTimerTesting.exe
+/Users/richardhaynes/Projects/PTimerTesting/PTimerTesting/obj/x86/Debug/PTimerTesting.exe
+/Users/richardhaynes/Projects/PTimerTesting/PTimerTesting/obj/x86/Debug/PTimerTesting.exe.mdb

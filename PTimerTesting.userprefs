@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{575CFDAD-B53A-4A0D-A562-C0322E520D64}|Default">
+  <MonoDevelop.Ide.ItemProperties.PTimerTesting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PTimerTesting/Program.cs">
+    <Files>
+      <File FileName="PTimerTesting/Program.cs" Line="44" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
